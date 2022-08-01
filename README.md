@@ -30,7 +30,7 @@ The Purchase Value of all dates were unpivoted into the long format.
 A date table was created for the date reference in the model.
 
 ## Analysis/Visualization
-#### Data Categories
+### Data Categories
 Categories are created in calculated column using DAX so we can target customers with products in their categories
 * Income Categories: This report divided incomes into three categories
   * Low:    < $90,000
@@ -41,4 +41,21 @@ Categories are created in calculated column using DAX so we can target customers
   * Low:		< $300
   * Medium:	$300 - $700
   * High: 	>= $700
+
+### Results
+**Regression Formula to predict Income from Sales**
+A scatterplot was used to analyze the relationship between average income and sales of each states. Linear regression was used to model the relationship.
+
+![image](https://user-images.githubusercontent.com/67699946/182250267-ada2c608-7665-4d1c-bf70-ff9c9921c194.png)
+
+* There is a strong positive relationship shown by the upward trend of the scatter plot.
+* The R squared value is 0.78 which means the fitted model can explain 78% of the variations in the average income.
+* The fitted model is ***Average Income = 72.43 Sales + 72638.21***
+
+**The Distribution of Predicted Household Incomes**
+Bins were created using DAX to plot the Histogram Chart
+
+![image](https://user-images.githubusercontent.com/67699946/182250963-370d0eb6-ee5f-4d72-933d-3ef563ce73ae.png)
+
+
 
