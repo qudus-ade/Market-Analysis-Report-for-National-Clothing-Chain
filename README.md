@@ -37,12 +37,9 @@ Check [here](https://github.com/qudus-ade/Market-Analysis-Report-for-National-Cl
 
 ## Data Preparation
 The following transformation processes were done in Power Query:
-* **Product Inventory**
-The columns were divided using Text to Columns button on Microsoft Excel before the data was loaded into Power BI using Power Query. Then other transformations were done inside Power Query.
-* **Purchase List**
-The Purchase Value of all dates were unpivoted into the long format.
-* **Date Table**
-A date table was created for the date reference in the model.
+* **Product Inventory**: The columns were divided using Text to Columns button on Microsoft Excel before the data was loaded into Power BI using Power Query. Then other transformations were done inside Power Query.
+* **Purchase List**: The Purchase Value of all dates were unpivoted into the long format.
+* **Date Table**: A date table was created for the date reference in the model.
 
 ## Analysis/Visualization
 ### Data Categories
@@ -76,13 +73,13 @@ Bins were created using DAX to plot the Histogram Chart
 
 ![6](https://user-images.githubusercontent.com/67699946/182706802-48622eae-09e0-4d44-9fb2-b51e191fd28e.PNG)
 
-The map shows that Washing DC has the highest average income in the US while Mississippi has the least.
+The map shows that Washington DC has the highest average income in the US while Mississippi has the least.
 
 **Product Category and Price**
 
 ![image](https://user-images.githubusercontent.com/67699946/182707812-a7a0b597-0ec8-4376-9be3-5cece26eb0ae.png)
 
-The products have been placed into categories according to their prices as mentioned earlier. The medium categories have more potential as we have categorised most the US population as medium income earners.
+The products have been placed into categories according to their prices as mentioned earlier. The medium categories have more potential customers as we have categorised most the US population as medium income earners.
 
 **Return Rates vs Customer Ratings**
 
@@ -102,7 +99,7 @@ Jon Little earns the highest annual income; $452,895.71.
 
 ![image](https://user-images.githubusercontent.com/67699946/182709750-e6c49460-0c7e-4830-b276-35dfccf17b50.png)
 
-The products are classified into Summer/Spring to be targeted to Warm areas, Winter for Cold areas, and Neutral that are not related to any weather condition. The map shows that winter products should be targeted at the northern part of the country while the Summer/Spring should be targeted to the southern parts of the country.
+The products are classified into Summer/Spring to be targeted to Warm areas, Winter for Cold areas, and Neutral that are not related to any weather condition. The map shows that winter products should be targeted to the northern part of the country while the Summer/Spring should be targeted to the southern parts of the country.
 
 **Sales between Sep 2020 and March 2021**
 
@@ -125,3 +122,5 @@ A breakdown of the population in industry by state is below
 2.	Company should strive to reduce the return rates of products to boost customer satisfaction and ratings.
 
 Check [here](https://github.com/qudus-ade/Market-Analysis-Report-for-National-Clothing-Chain/blob/main/Market%20Analysis%20Report%20for%20National%20Clothing%20Chain.pbix) for the full report.
+
+![image](https://user-images.githubusercontent.com/67699946/182713575-7ef0b9b8-ad8c-4453-b869-8af0453f4540.png)
