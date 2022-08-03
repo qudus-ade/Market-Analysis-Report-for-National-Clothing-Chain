@@ -7,24 +7,24 @@ This project is the final of three projects in the Udacity Data Analysis and Vis
 ## Data
 The data listed below were loaded into Power BI using _Get Data_ in Power Query
 * US Census Bureau:
- * Average income
- * Location
- * Population
- * Industry
+  * Average income
+  * Location
+  * Population
+  * Industry
 * Business Data:
- * Product inventory
- * Product prices
- * Customer rating
- * Product return rate
+  * Product inventory
+  * Product prices
+  * Customer rating
+  * Product return rate
 * Customer Data:
- * Customer ID
- * Names
- * Location
- * Date of birth
- * Purchase history
+  * Customer ID
+  * Names
+  * Location
+  * Date of birth
+  * Purchase history
 * Additional Data:
- * Weather
- * Demographics
+  * Weather
+  * Demographics
 
 ## Research Questions
 1. What is the correlation (R2 value) between sales and income?
