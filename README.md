@@ -6,10 +6,25 @@ This project is the final of three projects in the Udacity Data Analysis and Vis
 
 ## Data
 The data listed below were loaded into Power BI using _Get Data_ in Power Query
-* US Census Bureau: Average income, location, population, industry
-* Business Data: Product inventory, product prices, customer rating, product return rate
-* Customer Data: Customer ID, names, location, date of birth, purchase history
-* Additional Data: Weather, Demographics
+* US Census Bureau:
+ * Average income
+ * Location
+ * Population
+ * Industry
+* Business Data:
+ * Product inventory
+ * Product prices
+ * Customer rating
+ * Product return rate
+* Customer Data:
+ * Customer ID
+ * Names
+ * Location
+ * Date of birth
+ * Purchase history
+* Additional Data:
+ * Weather
+ * Demographics
 
 ## Research Questions
 1. What is the correlation (R2 value) between sales and income?
@@ -108,3 +123,5 @@ A breakdown of the population in industry by state is below
 ## Recommendations
 1.	Medium-priced and winter products should be the most advertised as they have the largest market.
 2.	Company should strive to reduce the return rates of products to boost customer satisfaction and ratings.
+
+Check [here](https://github.com/qudus-ade/Market-Analysis-Report-for-National-Clothing-Chain/blob/main/Market%20Analysis%20Report%20for%20National%20Clothing%20Chain.pbix) for the full report.
