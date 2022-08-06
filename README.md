@@ -2,7 +2,7 @@
 An analysis to know the products to advertise to each customer
 
 ## Introduction
-This project is the final project in the Udacity Data Analysis and Visualization with Microsoft Power BI Nanodegree Program. An online national clothing chain needs help in creating a targeted marketing campaign. Sales have been flat and they want to lure lost customers back. They want to advertise specific products to specific customers in specific locations, but they don’t know who to target.
+This project is the final project in the Udacity Data Analysis and Visualization with Microsoft Power BI Nanodegree Program. An online national clothing chain needs help in creating a targeted marketing campaign. Sales have been flat and they want to lure lost customers back. They want to advertise specific products to specific customers in specific locations, but they don’t know whom to target.
 
 ## Data
 The data listed below were loaded into Power BI using _Get Data_ in Power Query
