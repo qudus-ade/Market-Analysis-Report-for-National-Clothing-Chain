@@ -2,7 +2,7 @@
 An analysis to know the products to advertise to each customer
 
 ## Introduction
-This project is the final of three projects in the Udacity Data Analysis and Visualization with Microsoft Power BI Nanodegree Program. An online national clothing chain needs help in creating a targeted marketing campaign. Sales have been flat and they want to lure lost customers back. They want to advertise specific products to specific customers in specific locations, but they don’t know who to target.
+This project is the final project in the Udacity Data Analysis and Visualization with Microsoft Power BI Nanodegree Program. An online national clothing chain needs help in creating a targeted marketing campaign. Sales have been flat and they want to lure lost customers back. They want to advertise specific products to specific customers in specific locations, but they don’t know who to target.
 
 ## Data
 The data listed below were loaded into Power BI using _Get Data_ in Power Query
@@ -55,7 +55,7 @@ Categories are created in calculated column using DAX so we can target customers
   * High: 	>= $700
 
 ### Results
-**Regression Formula to predict Income from Sales**
+**Regression Formula to predict Income from Sales**\
 A scatterplot was used to analyze the relationship between average income and sales of each states. Linear regression was used to model the relationship.
 
 ![image](https://user-images.githubusercontent.com/67699946/182250267-ada2c608-7665-4d1c-bf70-ff9c9921c194.png)
